@@ -5,4 +5,4 @@ metadata:
 spec:
   repository: flightctl
   path: /applications/frigate-nvr/deployment/fleet-with-app.yaml
-  targetRevision: main
+  targetRevision: test-frigate
